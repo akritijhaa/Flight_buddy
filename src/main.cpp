@@ -4,7 +4,7 @@
 ================================================================================
 * Description: A full-stack, console-based Flight Reservation System in C++
 * refactored into a loosely-coupled, modular architecture.
-* Author: Gemini
+* Author: Akriti
 * Language: C++17
 * Database: SQLite3
 *
